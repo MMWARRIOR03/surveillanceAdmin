@@ -1,6 +1,6 @@
 # surveillance_admin
 
-A new Flutter project.
+A Flutter based Geo-Location based surveillance tracking application for ADMIN use.
 
 ## Getting Started
 
